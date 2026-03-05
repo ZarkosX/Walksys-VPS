@@ -2,7 +2,9 @@
 
 
 
-```ssh root@localhost -p 2222```
+```bash
+ssh root@localhost -p 2222
+```
 
 
 
