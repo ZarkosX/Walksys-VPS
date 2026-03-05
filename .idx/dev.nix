@@ -10,7 +10,6 @@
     cdrkit
     cloud-utils
     qemu
-    nano
     curl
   ];
 
