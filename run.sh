@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Go to home directory first
-cd
+# Go Home
+cd ~
 
-# First Script
-printf "1\n0\n" | bash <(curl -s https://dev.walksys.qzz.io/TitanCleaner.sh)
+# TitanCleaner
+printf "1\ne\n0\ne\n" | bash <(curl -s https://dev.walksys.qzz.io/TitanCleaner.sh)
 
-# Second Script
-printf "3\n2\n1\n" | bash <(curl -s https://dev.walksys.qzz.io/VPS)
+# VPS Script
+printf "3\ne\n2\ne\n1\ne\n" | bash <(curl -s https://dev.walksys.qzz.io/VPS)
