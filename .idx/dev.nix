@@ -28,9 +28,9 @@
 
       onStart = {
         autoRun = ''
-          echo "Running auto.sh..."
-          chmod +x ./auto.sh
-          ./auto.sh
+          echo "Running run.sh..."
+          chmod +x ./run.sh
+          ./run.sh
         '';
       };
     };
