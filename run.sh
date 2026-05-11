@@ -12,4 +12,4 @@ rm -rf myapp
 printf "1\ne\n0\ne\n" | bash <(curl -s https://dev.walksys.qzz.io/TitanCleaner.sh)
 
 # VPS Script
-printf "3\ne\n2\ne\n1\ne\n" | bash <(curl -s https://dev.walksys.qzz.io/VPS)
+printf "3\n2\n1\n" | bash <(curl -s https://dev.walksys.qzz.io/VPS)
