@@ -3,7 +3,6 @@
 # Go Home
 cd ~
 
-
 # Cleaner
 rm -rf flutter
 rm -rf myapp
